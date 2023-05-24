@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Dananjan
-- 👀 I’m interested in IT field specially Web and Programming development.
-- 🌱 I’m currently improving my knowledge and skills related to IT field.
-- 💞️ I’m looking for a full time job oppertunity to start my career in iT field.
+- 👀 I’m working in Software Engineering field.
 - 📫 You can reach me via my email (dananjannayanakantha3@gmail.com).
 
 <!---
